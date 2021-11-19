@@ -1,0 +1,23 @@
+{
+  "name": "axios-apitool",
+  "version": "0.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Gongjinwei",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "axios": "^0.24.0",
+    "typescript": "^4.4.4"
+  },
+  "peerDependencies": {
+    "vue": ">=2.0.0",
+    "axios": ">=0.2.0"
+  }
+}
